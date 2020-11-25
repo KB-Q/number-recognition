@@ -1,5 +1,5 @@
 # Number Recognizer
-Handwritten digit recognizer with keras and pygame, trained using the MNIST dataset.
+Handwritten digit recognizer using keras and pygame, trained with the MNIST dataset.
 
 Install requirements using ```pip install -r requirements.txt```
 
