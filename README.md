@@ -8,9 +8,5 @@ Controls:
   - Q = quits the program
   - Left click = Draw
   - Right click = Erase
-  
-Build Python version is 3.7.6
-
-DISCLAIMER: This is my first ever deep learning project.
 
 ![](https://github.com/mrmalac/images_for_readmes/blob/main/numrec/numrec.gif)
